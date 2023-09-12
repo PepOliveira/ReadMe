@@ -35,7 +35,8 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+
+ O nosso projeto tem como foco principal ajudar as insituições carentes,visando aumentar a taxa de doações de brinquedos que já não são mais usados,sendo assim,doados para crianças e adolescentes de tal instituição carente
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
@@ -47,35 +48,38 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 ✔️ Funcionalidade 4
 
 ## Distribuição
-Link para teste da versão disponibilizada.
+Link do Projeto Aqui:
 
 ## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
+SQL;
+JAVASCRIPT; 
 Aparelho utilizado para testes.
 - Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+- MySQL , NetBeans ;
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+O projeto deve ser utilizado somente para a doação de brinquedos para crianças e jovens carentes,visando conectar o doador e instituição diretamente
 
 ## Testes realizados
 Utilização de imagens e descrição do qeu foi testado.
 
 ## Banco de Dados 🗂️
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+-MySQL ;
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 XML
 ...
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Resolver como iremos utilizar os bancos de dados gerados com os códigos em uma única plataforma
+Fazer testes convofme a criação do projeto
 
 ## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
+Desenvolvimento da aba principal do nosso projeto juntamente
+Conexão entre banco de dados e o programa
 
 📝 Tarefa 1
 
@@ -84,7 +88,10 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+João Victor Rafael Rodrigues
+Pedro Henrique dos Santos de Oliveira
+João Pedro Timo Angelotti Pinto
+Leonardo Rios Gonzalez
 
 ## Licença
 The MIT License (MIT)
