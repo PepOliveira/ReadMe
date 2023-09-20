@@ -94,6 +94,7 @@ João Victor Rafael Rodrigues
 Pedro Henrique dos Santos de Oliveira
 João Pedro Timo Angelotti Pinto
 Leonardo Rios Gonzalez
+Pedro Denzi Takemura Junior
 
 ## Licença
 The MIT License (MIT)
