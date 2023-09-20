@@ -47,7 +47,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ✔️ Funcionalidade 4
 
 ## Distribuição
-Link do Projeto Aqui:
+Link do protótipo inicial: https://codepen.io/oliverkkj/pen/ExGvPPP
 
 ## Pré-requisitos ⚠️    
 SQL;
@@ -60,7 +60,8 @@ Aparelho utilizado para testes.
 O projeto deve ser utilizado somente para a doação de brinquedos para crianças e jovens carentes,visando conectar o doador e instituição diretamente
 
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+![image](https://github.com/PepOliveira/ReadMe/assets/135566747/3b905e1e-e38b-43de-a8e5-eb7c9af52eb5)
+
 
 ## Banco de Dados 🗂️
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
