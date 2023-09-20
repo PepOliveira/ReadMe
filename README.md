@@ -35,7 +35,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
 
- O nosso projeto tem como foco principal ajudar as insituições carentes,visando aumentar a taxa de doações de brinquedos que já não são mais usados,sendo assim,doados para crianças e adolescentes de tal instituição carente
+ Nosso projeto tem como principal foco ajudar instituições carentes, buscando aumentar as doações de brinquedos que não são mais utilizados, para que possam ser entregues às crianças e adolescentes dessas instituições que precisam.
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
@@ -82,11 +82,13 @@ Fazer testes convofme a criação do projeto
 Desenvolvimento da aba principal do nosso projeto juntamente
 Conexão entre banco de dados e o programa
 
-📝 Tarefa 1
+📝 Tarefa 1 -  Inserir caixa de diálogo para descrição do brinquedo
 
-📝 Tarefa 2
+📝 Tarefa 2 - Visualização da instituição de acolhimento que receberá a doação
 
-📝 Tarefa 3
+📝 Tarefa 3 - Visualização de doação realizada com sucesso
+
+📝 Tarefa 4 -  Conexão do projeto com o banco de dados
 
 ## Desenvolvedores/Contribuintes:
 João Victor Rafael Rodrigues
@@ -97,4 +99,4 @@ Leonardo Rios Gonzalez
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ 2023 - Recreio da Esperança
