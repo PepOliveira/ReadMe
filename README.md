@@ -60,6 +60,7 @@ Aparelho utilizado para testes.
 O projeto deve ser utilizado somente para a doação de brinquedos para crianças e jovens carentes,visando conectar o doador e instituição diretamente
 
 ## Testes realizados
+Criação da tela inicial do sistema de cadastro
 ![image](https://github.com/PepOliveira/ReadMe/assets/135566747/3b905e1e-e38b-43de-a8e5-eb7c9af52eb5)
 
 
