@@ -53,7 +53,6 @@ Link do protótipo inicial: https://codepen.io/oliverkkj/pen/ExGvPPP
 SQL;
 JAVASCRIPT; 
 Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
 - MySQL , NetBeans ;
 
 ## Como rodar a aplicação 
