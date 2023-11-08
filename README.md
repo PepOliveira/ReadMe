@@ -65,7 +65,36 @@ A aplicação foi testada pelo autor para a validação do banco de dados
 
 ## Banco de Dados 🗂️
 Banco de dados do Sistema Recreio da Esperança
-[Uploading Banco de Dados - Recreio da Esperança.sql…]()
+[Uploading BCREATE DATABASE Recreio_Da_Esperanca;
+USE Recreio_Da_Esperanca;
+
+CREATE TABLE login (
+nome varchar(50),
+email varchar (50),
+senha varchar (50)
+);
+
+CREATE TABLE brinquedo (
+nome varchar(50),
+usuario varchar(50),
+telefone varchar (20),
+descricao varchar(100)
+);
+
+INSERT INTO login (nome, email, senha) 	VALUES ('João Pedro', 'joaopedro@gmail.com', 'joao17');
+
+SELECT nome AS 'Doador',
+email AS 'Email do Doador',
+senha AS 'Senha'
+FROM login;
+
+SELECT nome AS 'Doador', 
+usuario AS 'Email do Doador', 
+telefone AS 'Telefone do Doador' ,
+descricao AS 'Brinquedo Doado'
+FROM brinquedo;
+anco de Dados - Recreio da Esperança.sql…]()
+
 
 
 ## Linguagens, dependencias e libs utilizadas 📚
