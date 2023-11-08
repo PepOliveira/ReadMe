@@ -125,6 +125,8 @@ Conexão entre banco de dados e o programa
 
 📝 Tarefa 4 -  Conexão do projeto com o banco de dados ✔️
 
+📝 Tarefa 5 - Validações e testes com a instituição Lar Casa Bela
+
 ## Desenvolvedores/Contribuintes:
 João Pedro Timo Angelotti Pinto
 João Victor Rafael Rodrigues
