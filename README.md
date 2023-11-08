@@ -124,11 +124,10 @@ Conexão entre banco de dados e o programa
 📝 Tarefa 4 -  Conexão do projeto com o banco de dados ✔️
 
 ## Desenvolvedores/Contribuintes:
-João Victor Rafael Rodrigues
-Pedro Henrique dos Santos de Oliveira
 João Pedro Timo Angelotti Pinto
-Leonardo Rios Gonzalez
+João Victor Rafael Rodrigues
 Pedro Denzi Takemura Junior
+Pedro Henrique dos Santos de Oliveira
 
 ## Licença
 The MIT License (MIT)
