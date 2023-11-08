@@ -56,7 +56,7 @@ O código fonte está disponibilizado na seção Master do Github. E também o F
 - MySQL , NetBeans ;
 
 ## Como rodar a aplicação 
-O projeto deve ser utilizado somente para a doação de brinquedos para crianças e jovens carentes,visando conectar o doador e instituição diretamente
+O projeto deve ser utilizado somente para a doação de brinquedos para crianças e jovens em instituição de acolhimento,visando conectar o doador e instituição diretamente
 
 ## Testes realizados
 Criação da tela de login do sistema - Recreio da Esperança;
