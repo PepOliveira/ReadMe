@@ -103,8 +103,7 @@ XML
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
 ## Resolvendo Problemas 
-Resolver como iremos utilizar os bancos de dados gerados com os códigos em uma única plataforma
-Fazer testes convofme a criação do projeto
+Resolver como iremos realizar validações e testes com a instiuição de acolhimento, tais como retornar seus feedback
 
 ## Recursos de inseridos 🧰
 Desenvolvimento da aba principal do nosso projeto juntamente
