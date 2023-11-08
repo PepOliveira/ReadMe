@@ -65,7 +65,7 @@ A aplicação foi testada pelo autor para a validação do banco de dados
 
 ## Banco de Dados 🗂️
 Banco de dados do Sistema Recreio da Esperança
-[Uploading BCREATE DATABASE Recreio_Da_Esperanca;
+CREATE DATABASE Recreio_Da_Esperanca;
 USE Recreio_Da_Esperanca;
 
 CREATE TABLE login (
@@ -93,7 +93,6 @@ usuario AS 'Email do Doador',
 telefone AS 'Telefone do Doador' ,
 descricao AS 'Brinquedo Doado'
 FROM brinquedo;
-anco de Dados - Recreio da Esperança.sql…]()
 
 
 
