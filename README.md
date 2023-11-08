@@ -109,13 +109,19 @@ Resolver como iremos realizar validações e testes com a instiuição de acolhi
 Desenvolvimento da aba principal do nosso projeto juntamente
 Conexão entre banco de dados e o programa
 
-📝 Tarefa 1 -  Inserir caixa de diálogo para descrição do brinquedo
+📝 Tarefa 1 -  Inserir caixa de diálogo para descrição do brinquedo ✔️
+![Descrição](https://github.com/PepOliveira/ReadMe/assets/143531571/e60d3b2c-ef46-4fcc-bc72-0826b7cc880c)
 
-📝 Tarefa 2 - Visualização da instituição de acolhimento que receberá a doação
 
-📝 Tarefa 3 - Visualização de doação realizada com sucesso
+📝 Tarefa 2 - Visualização da instituição de acolhimento que receberá a doação ✔️
+![InstituiçãoTela](https://github.com/PepOliveira/ReadMe/assets/143531571/2242776d-6fba-4a4e-a819-ad9bc77c09b5)
 
-📝 Tarefa 4 -  Conexão do projeto com o banco de dados
+
+📝 Tarefa 3 - Visualização de doação realizada com sucesso ✔️
+![DoçãoSucesso](https://github.com/PepOliveira/ReadMe/assets/143531571/c39df261-155c-4e55-b0c7-bbff556ce0c7)
+
+
+📝 Tarefa 4 -  Conexão do projeto com o banco de dados ✔️
 
 ## Desenvolvedores/Contribuintes:
 João Victor Rafael Rodrigues
