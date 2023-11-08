@@ -51,17 +51,15 @@ O código fonte está disponibilizado na seção Master do Github. E também o F
 
 
 ## Pré-requisitos ⚠️    
-SQL;
-JAVASCRIPT; 
-Aparelho utilizado para testes.
 - MySQL , NetBeans ;
 
 ## Como rodar a aplicação 
 O projeto deve ser utilizado somente para a doação de brinquedos para crianças e jovens carentes,visando conectar o doador e instituição diretamente
 
 ## Testes realizados
-Criação da tela inicial do sistema de cadastro
-![image](https://github.com/PepOliveira/ReadMe/assets/135566747/3b905e1e-e38b-43de-a8e5-eb7c9af52eb5)
+Criação da tela de login do sistema - Recreio da Esperança
+![Tela de login](https://github.com/PepOliveira/ReadMe/assets/143531571/95c8be60-b4d8-46e8-a76a-098667ca9de8)
+
 
 
 ## Banco de Dados 🗂️
