@@ -47,7 +47,8 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ✔️ Funcionalidade 4
 
 ## Distribuição
-Link do protótipo inicial: https://codepen.io/oliverkkj/pen/ExGvPPP
+O código fonte está disponibilizado na seção Master do Github. E também o Formato .zip do código fonte: [Código Fonte - Recreio da Esperança.zip](https://github.com/PepOliveira/ReadMe/files/13292232/Codigo.Fonte.-.Recreio.da.Esperanca.zip)
+
 
 ## Pré-requisitos ⚠️    
 SQL;
